@@ -47,5 +47,5 @@ Atualmente estudo FastAPI, PostgreSQL, Docker e boas práticas de arquitetura pa
 ## Sobre
 
 - 22 anos  
-- Finalizando Análise e Desenvolvimento de Sistemas  
+- Cursando Análise e Desenvolvimento de Sistemas  
 - Objetivo: evoluir como desenvolvedor back-end Python e construir soluções robustas e profissionais  
