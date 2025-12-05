@@ -8,24 +8,9 @@ Atualmente estudo FastAPI, PostgreSQL, Docker e boas práticas de arquitetura pa
 ## Tecnologias
 
 - Python  
-- FastAPI  
-- PostgreSQL  
+- FastAPI   
 - SQL e SQLAlchemy  
-- Alembic (migrations)  
-- Docker e docker-compose  
-- Autenticação com JWT  
-- Testes com pytest  
 
----
-
-## Projetos em desenvolvimento
-
-- API de autenticação com FastAPI e JWT  
-- CRUD completo com FastAPI  
-- API integrada ao PostgreSQL usando SQLAlchemy  
-- Projeto containerizado com Docker  
-- Deploy de API no Render ou Railway  
-- **Projeto final:** API de finanças pessoais  
 
 ---
 
